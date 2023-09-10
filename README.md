@@ -1,5 +1,5 @@
-# Project Name
-> Outline a brief description of your project.
+# Linear_Regression_Bike_Sharing_Assignment
+
 
 
 ## Table of Contents
@@ -11,38 +11,39 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+This project aims to build a linear regression model to predict the number of bikes required to meet the demand for a bike-sharing system. The dataset used in this project is from the Bike Sharing Assignment provided by UpGrad. The objective of the project is to create a model that accurately predicts the demand for shared bikes.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+The demand for shared bikes is highly influenced by variables like temperature, humidity, and windspeed.
+The model built has an R-squared value of 0.81, which indicates that 81% of the variance in the demand for shared bikes can be explained by the variables in the model.
+The assumptions of linear regression, such as linearity, normality, homoscedasticity, and independence, were validated after building the model on the training set.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+-Python - version 3.8
+
+-Pandas - version 1.3.2
+
+-NumPy - version 1.20.3
+
+-Matplotlib - version 3.4.2
+
+-Seaborn - version 0.11.2
+
+-Scikit-learn - version 0.24.2
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+This project was based on the Bike Sharing Assignment provided by UpGrad. Special thanks to my mentors of weekend classes and peers who provided valuable feedback and support throughout the project.
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@Jahid7786] - feel free to contact me!
 
 
 <!-- Optional -->
